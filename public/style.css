@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/b8/00/87/b800878ec9ca72ed7f4ebe64e4aa1832.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    /* padding-top: 20%; */
+    height: 100vh;
+    margin: 0;
+    color: rgb(211, 123, 16);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.custon-button {
+    background-color: rgb(170, 108, 37);
+    color: black;
+    text-decoration: none;
+    width: 75px;
+    height: 30px;
+    box-sizing: border-box;
+    padding-top: 7px;
+    display: inline-block;
+    box-sizing: border-box;
+ 
+}
+
+.content {
+    background-color: rgba(233, 123, 89, 0.2);
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} 
+
+.button {
+    background-color: rgb(170, 108, 37);
+}
